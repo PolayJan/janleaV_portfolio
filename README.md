@@ -30,7 +30,7 @@ I'm a hardworking, dedicated, and versatile person. I am also a team player, and
 - Finding and working with Real Estate
 - Lead generation, qualifying buyer leads, and cold calling
 - Social Media Marketing (Facebook Ads and X (formerly known as Twitter))
-- Selling homes
+- Assisting when selling a property (preparing the needed documents when the owner closes a deal)
 
 **2008 - 2020 Team Leader Quality / Trainer / Subject Matter Expert / Customer Support Representative**
 
