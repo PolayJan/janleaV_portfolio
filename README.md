@@ -1,18 +1,23 @@
 # Virtual Assistant
 
 ## Summary
-An extremely competent and productive person with excellent time management abilities to complete all of the tasks with little to no guidance required. I have years of experience in customer service, training, and quality assurance, and I was allowed to lead a team at one of the top BPOs in the country. While overseeing the team's exceptional performance and daily client communication, leading the team helped me to hone my administrative skills. I also had a brief stint in the real estate industry, where my responsibilities included locating and managing real estate, as well as generating leads, posting content online for marketing, and assisting with the actual sales process. In addition, I have worked as a SaaS customer service representative, providing clients with minimal technical support for onboarding and other service-related issues. I have also handled sales, pitching additional services and/or upgrades.
+An extremely competent and productive person with excellent time management abilities to complete all of the tasks with little to no guidance required. I have years of experience in customer service, training, and quality assurance, and I was promoted to lead a team at one of the top BPOs in the country. While overseeing the team's exceptional performance and daily client communication, leading the team helped me to hone my administrative skills. I also had a brief stint in the real estate industry, where my responsibilities included locating and managing real estate, as well as generating leads, posting content online for marketing, and assisting with the actual sales process. In addition, I have worked as a SaaS customer service representative, providing clients with minimal technical support for onboarding and other service-related issues. I have also handled sales, pitching additional services and/or upgrades.
 I'm a hardworking, dedicated, and versatile person. I am also a team player, and I am always eager to learn to help me improve. My goal is to provide excellent service to both my future clients and their customers, overcoming any obstacles they may encounter. I am a steady and dependable presence in this fast-paced world of customer support.
 
 ## Skills
 - Active listening
 - Communication skills (oral and written)
 - Time Management skills
-- Problem-Solving skill
+- Problem-Solving skills
 - Customer Service Expert
 - Adaptability skills
 - Computer software skills (Tools, MS Office, and Google Workspace)
 - Social Media Management
+- Skilled Multi-tasker
+- Interpersonal skills
+- Leadership skills
+- Critical thinking
+
 
 ## Work experience
 **3/2021 - 02/2024 - SaaS Customer Support**
@@ -36,7 +41,7 @@ I'm a hardworking, dedicated, and versatile person. I am also a team player, and
 
 **Top 1 Team Manager, Top 1 SME and Top 1 Agent**
 - Concentrix / Convergys / Stream / Etelecare
-- Handled customer complaints with efficiency, using smart problem-solving skills to resolve issues and maintain customer satisfaction.
+- Handled customer complaints with efficiency, using smart problem-solving skills to resolve issues, sales and maintain customer satisfaction.
 - Conducted training for new agents and seasonal ramp agents
 - Facilitating weekly calibration with the clients
 - Evaluated calls weekly
